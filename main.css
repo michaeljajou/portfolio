@@ -671,5 +671,10 @@ input[type="submit"]:hover {
     .up {
         right: 2rem;
     }
+
+    section {
+        width: 100%;
+        overflow-x: hidden;
+    }
 }
 /*End media queries*/
