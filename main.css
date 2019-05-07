@@ -15,7 +15,7 @@ html {
     font-size: 10px;
     font-family: 'Roboto', sans-serif;
     color: #eee;
-    max-width: 100%;
+    min-width: 100%;
     overflow-x: hidden;
 }
 
@@ -337,7 +337,7 @@ li {
 section.vloggle {
     background: #3882c3;
     margin: 0;
-    width: 100%;
+    
 }
 
 section.daily-doer {
